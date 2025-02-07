@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3.0 error: ArrayIndexOutOfBoundsException.  The bug occurs when attempting to access an array element using an index that is out of bounds. The solution involves adding a check to ensure that the index is within the valid range of the array before accessing the element.
